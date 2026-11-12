@@ -1,16 +1,16 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-header-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/profile-header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
-  <img src="assets/profile-header-dark.svg" alt="Chernoplodich. Currently building Veylume for macOS." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-header-mobile-dark-v2.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/profile-header-mobile-light-v2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light-v2.svg">
+  <img src="assets/profile-header-dark-v2.svg" alt="Chernoplodich. Currently building Veylume for macOS." width="100%">
 </picture>
 
 <br>
 
 <a href="https://github.com/Chernoplodich/Veylume"><img src="assets/veylume.png" alt="Veylume app icon" width="84" height="84" align="right"></a>
 
-## [Veylume](https://github.com/Chernoplodich/Veylume)
+### [Veylume](https://github.com/Chernoplodich/Veylume)
 
 **Local voice typing for Mac.**
 
